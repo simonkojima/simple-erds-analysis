@@ -1,4 +1,4 @@
-# simple-erds-analyze
+# simple-erds-analysis
 
 ## data organization
 Data for each participant should be placed as the following.
